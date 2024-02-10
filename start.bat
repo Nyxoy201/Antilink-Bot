@@ -1,4 +1,4 @@
 @echo off
-title DmAll Bot By Nyxoy
+title AntiLink Bot 
 
-py bot.py
+python main.py
